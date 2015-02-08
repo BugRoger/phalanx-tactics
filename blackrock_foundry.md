@@ -25,8 +25,18 @@
 ## Kromog
 
 ## Beastlord Darmac
-### Recap
-### Guides
+The Beastlord Darmac encounter is a multi-phase fight, wherein players control the order of the phases by positioning Darmac next to the Prime Beast they wish to activate next. Each Prime Beast has a set of abilities they will use while Darmac is riding them, and after players defeat the Beast, Darmac retains some of their abilities for the remainder of the fight.
+
+  * Darmac will choose a Prime Beast to mount at 85%, 65%, and 45% health
+  * Cruelfang, Ironcrusher, Deadwing
+  * Tanks should hold Darmac near the Prime Beast they want to activate next when he is close to a health "breakpoint", and near the Pack Beast spawn point otherwise.
+  * Move away when targeted by Pin Down
+  * Players should gradually kill Heavy Spears, keeping the number of active Heavy Spears low
+  * First ability is Rend and Tear. Spread out to avoid spreading the dot. Boss jumps back and does it on melee too. Move out. Tanks need to swap at 2 stacks
+  * Tranq Shot the Savage Howl ability
+  * Second Ability, Tantrum. Use healing CD. Stay spread. Swap at 2 stacks.
+  * Third ability, Inferno Breath. Move out quickly. Dispell Conflagration. Tanks swap at 5-10 stacks of Seared Flesh
+  * Use  Bloodlust/ Heroism/ Time Warp after the third Beast dies, and focus primarily on boss DPS.
 
 ## Operator Thogar
 ## Iron Maidens
